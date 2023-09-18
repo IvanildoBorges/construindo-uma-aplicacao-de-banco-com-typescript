@@ -1,5 +1,5 @@
 # Desenvolvendo o Liso Banking
-desenvolvido por [Ivanildo Borges](https://github.com/ivanildoborges)
+desenvolvido por [Ivanildo Borges](https://github.com/IvanildoBorges)
 
 ### Projeto para construção de uma aplicação resumida de banco. Projeto para demonstrar na prática os conceitos de POO no TypeScript.
 
